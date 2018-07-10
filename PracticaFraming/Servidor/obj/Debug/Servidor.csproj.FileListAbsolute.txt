@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\bin\Debug\Servidor.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\bin\Debug\Servidor.exe
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\bin\Debug\Servidor.pdb
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\bin\Debug\Codificador.dll
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\bin\Debug\Codificador.pdb
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\obj\Debug\Servidor.exe
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Servidor\obj\Debug\Servidor.pdb

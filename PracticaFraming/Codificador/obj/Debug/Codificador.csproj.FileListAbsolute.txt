@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Codificador\bin\Debug\Codificador.dll
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Codificador\bin\Debug\Codificador.pdb
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Codificador\obj\Debug\Codificador.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Codificador\obj\Debug\Codificador.dll
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Codificador\obj\Debug\Codificador.pdb

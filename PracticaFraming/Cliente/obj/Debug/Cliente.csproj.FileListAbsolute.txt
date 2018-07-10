@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\bin\Debug\Cliente.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\bin\Debug\Cliente.exe
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\bin\Debug\Cliente.pdb
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\bin\Debug\Codificador.dll
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\bin\Debug\Codificador.pdb
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\obj\Debug\Cliente.exe
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\obj\Debug\Cliente.pdb
+c:\users\user\documents\visual studio 2013\Projects\PracticaFraming\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
